@@ -1,0 +1,17 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Mountains+of+Christmas:wght@400;700&display=swap');
+
+body{
+  
+    background-color: rgb(7, 7, 56);
+   
+}
+
+
+h1{
+    color: rgb(26, 26, 67);background-color: rgb(98, 93, 97);
+    font-size: 48px;
+    font-family: Mountains of Christmas, serif;
+
+}
